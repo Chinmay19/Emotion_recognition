@@ -1,0 +1,4 @@
+1. Create two folders called training-data and test data.
+2. Create folders in training data for each subject as shown -> S1, S2
+3. Around 10-12 images of each with different conditions should produce good results.
+
